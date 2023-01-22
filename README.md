@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sudharsan r" target="blank"><img align="center" src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/52/7b/9e527b30-97e9-4ff8-6af9-877ed2b64e7e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024.jpg" alt="sudharsan r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sudharsan r" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="sudharsan r" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sudharsan121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudharsan121" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sudharson519" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/hackerrank-3628233-3031053.png" alt="sudharson519" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudharsan07" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="sudharsan07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sudharsan07" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="sudharsan07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
