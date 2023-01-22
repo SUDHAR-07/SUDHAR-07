@@ -1,4 +1,4 @@
-![header](https://github.com/SUDHAR-07/SUDHAR-07/blob/main/banner.png")
+![header](https://camo.githubusercontent.com/2d97fc6917462d31a885631ec887824db6974df46eccea2ae131ff3ece798a0a/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572)
 <h1 align="center">I'm Sudharsan</h1>
 <p align="center">I am budding <b>Software Developer</b> and aspiring <b>Data Analyst</b>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
 
