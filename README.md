@@ -36,4 +36,4 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
 -->
-![Snake animation](https://github.com/SUDHAR-07/SUDHAR-07/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/SUDHAR-07/SUDHAR-07/blob/output/github-contribution-grid-snake.svg) -->
