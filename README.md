@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudharsan</h1>
-<p align="center">I am budding software developer and aspiring Data Analyst, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
+<p align="center">I am budding <b>software developer</b> and aspiring <b>Data Analyst</b>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
