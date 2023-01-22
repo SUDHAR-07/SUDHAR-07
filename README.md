@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Sudharsan</h1>
-<p align="center">I am budding <b>software developer</b> and aspiring <b>Data Analyst</b>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
+<p align="center">I am budding <b>Software Developer</b> and aspiring <b>Data Analyst</b>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Java,HTML,CSS**
 
-- 📫 How to reach me **sudharson519@gmail.com**
+- 📫 How to reach me <a href ="sudharson519@gmail.com" target="blank"> MSG Here </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,8 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-3215385-2673803.png" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="javascript" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" alt="mysql" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-3215385-2673803.png" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhar-07&show_icons=true&locale=en" alt="sudhar-07" /></p>-->
