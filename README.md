@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sudharsan r" target="blank"><img align="center" src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/52/7b/9e527b30-97e9-4ff8-6af9-877ed2b64e7e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/1024x1024.jpg" alt="sudharsan r" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sudharsan121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudharsan121" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sudharson519" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="sudharson519" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sudharson519" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png](https://camo.githubusercontent.com/c27e320bc0dd83da2ac9b3e89b20480c9896c4d732ce13a21bf09e77cbc4133a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6861636b657272616e6b2e737667)" alt="sudharson519" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sudharsan07" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="sudharsan07" height="30" width="40" /></a>
 </p>
 
