@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudharsan</h1>
+<h1 align="center">Hey 👋, I'm Sudharsan</h1>
 <p align="center">I am budding <b>software developer</b> and aspiring <b>Data Analyst</b>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
 
 
