@@ -1,3 +1,4 @@
+![header](https://github.com/SUDHAR-07/SUDHAR-07/blob/main/banner.png")
 <h1 align="center">I'm Sudharsan</h1>
 <p align="center">I am budding <b>Software Developer</b> and aspiring <b>Data Analyst</b>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
 
