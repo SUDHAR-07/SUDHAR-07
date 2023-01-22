@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudharsan</h1>
-<h3 align="center">I am budding software developer and aspiring Data Analyst, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply technologies across various domains. I love to explore new technologies and leverage them to solve real-life problems.</h3>
+<p align="center">I am budding <h3>software developer</h3> and aspiring <h3>Data Analyst</h3>, I’m currently pursuing my 4th year Bachelor's ECE degree in Velammal College of Engineering and Technology Madurai, India ('23 batch). I'm a passionate learner who's always willing to learn and apply <i>technologies across various domains</i>. I love to explore new technologies and leverage them to solve real-life problems.</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/sudharsan r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudharsan r" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sudharsan121" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudharsan121" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sudharson519" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sudharson519" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sudharsan07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudharsan07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sudharsan07" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_Sharing.png" alt="sudharsan07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhar-07&show_icons=true&locale=en" alt="sudhar-07" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhar-07&show_icons=true&locale=en" alt="sudhar-07" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
