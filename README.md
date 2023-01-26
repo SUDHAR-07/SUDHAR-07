@@ -31,10 +31,12 @@
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="html5" width="40" height="40"/> </a>&nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-3215385-2673803.png" alt="css3" width="40" height="40"/> </a> &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="javascript" width="40" height="40"/> </a> &nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" alt="mysql" width="40" height="40"/> </a>&nbsp  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/></a>
  &nbsp <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> &nbsp <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></p>
-<br><br><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p>
+<br><br>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p> -->
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhar-07&show_icons=true&locale=en" alt="sudhar-07" /></p>-->
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p>
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
 -->
 <!-- ![Snake animation](https://github.com/SUDHAR-07/SUDHAR-07/blob/output/github-contribution-grid-snake.svg) -->
