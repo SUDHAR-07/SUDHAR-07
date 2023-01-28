@@ -62,19 +62,12 @@
 <br><br>
 
 
+<p><img align="right" width = "430px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p> -->
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhar-07&show_icons=true&locale=en" alt="sudhar-07" /></p>-->
+<h3 style=”color: red; font-weight: bold; font-size: 20px;”>If you like my work, you can support me by buying me a coffee by clicking the below link</h3>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
--->
-<!-- ![Snake animation](https://github.com/SUDHAR-07/SUDHAR-07/blob/output/github-contribution-grid-snake.svg) -->
-
-**If you like my work, you can support me by buying me a coffee by clicking the link below**
-
-<a href="https://www.buymeacoffee.com/sudharson5B" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://www.buymeacoffee.com/sudharson5B" target="_blank"><img align = "left" src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
