@@ -62,7 +62,7 @@
 <br><br>
 
 
-<p><img align="right" width = "430px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
 
 
 <h3 style=”color: red; font-weight: bold; font-size: 20px;”>If you like my work, you can support me by buying me a coffee by clicking the below link</h3>
