@@ -19,7 +19,7 @@
 
 - 📫 How to reach me <a href ="sudharson519@gmail.com" target="blank"> MSG Here </a>
 <br/>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sudharsan-r-67bbb11a0/">
@@ -61,7 +61,7 @@
 <!--  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> -->
 <br>
 <div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
+
 <p><img align="center"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhar-07&show_icons=true&locale=en&layout=compact" alt="sudhar-07" /></p></div>
 <br/>
 <h3 style="color:red;">If you like my work, you can support me by buying me a coffee by clicking the below link</h3>
