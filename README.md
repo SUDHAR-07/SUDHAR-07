@@ -40,24 +40,24 @@
   <img align="left" alt="Sudharsan;s Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <!-- <a href="https://medium.com/@bhattbhavesh91">
-  <img align="left" alt="Bhavesh's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
+  <img align="left" alt="Bhavesh's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
 </a> -->
 <!-- <a href="http://bhattbhavesh91.github.io/">
-  <img align="left" alt="Dev.to Link" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
+  <img align="left" alt="Dev.to Link" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/blogger.svg" />
 </a> -->
 <!-- <a href="https://t.me/bhattbhavesh91">
-  <img align="left" alt="Telegram Channel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
+  <img align="left" alt="Telegram Channel" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />
 </a> -->
 <!-- <a href="https://dev.to/bhattbhavesh91">
-  <img align="left" alt="Bhavesh's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
+  <img align="left" alt="Bhavesh's Blog" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dev-dot-to.svg" />
 </a> -->
 
 <br/>
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" width="22px" /> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.ujudebug.com/wp-content/uploads/2022/07/html-logo-transparent.png" alt="html5" width="22px"/> </a>&nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/css-3215385-2673803.png" alt="css3" width="22px"/> </a> &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png" alt="javascript" width="22px"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" alt="python" width="22px"/> </a>&nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20180803/bx/kisspng-mysql-database-image-vector-graphics-integrations-opsview-5b648f451747c6.6957402115333169330954.jpg" alt="mysql" width="22px"/> </a>&nbsp  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="c" width="22px"/></a>
- &nbsp <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="22px"/> </a> &nbsp</p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/3291/3291697.png" alt="java" width="32px" /> </a>&nbsp <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.favpng.com/18/19/13/html-logo-png-favpng-xw7LS6AupC3yqakqAhCEpSeVA.jpg" alt="html5" width="27px"/> </a>&nbsp <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://p.kindpng.com/picc/s/198-1985018_css-css-logo-website-css-logo-transparent-background.png" alt="css3" width="27px"/> </a> &nbsp <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUTFcizm66kICXga9pJorT19gWqk_IdSfFoyXgPOVMsa1pdVriwinakRrKBx4EKOHNj4&usqp=CAU" alt="javascript" width="32px"/> </a>&nbsp <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968286.png" alt="python" width="32px"/> </a>&nbsp <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://as1.ftcdn.net/v2/jpg/02/76/69/12/1000_F_276691258_ztHqtPnY14WtXv8Bri5TyFxITTgVGQ45.jpg" alt="mysql" width="32px"/> </a>&nbsp  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/1f/88/69/1f886933389dfdd361d7545fbf2be130.png" alt="c" width="32px"/></a>
+ &nbsp <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://www.icons101.com/icons/15/Key_App_Icons__OS_X_by_noshery/128/Matlab.png" alt="matlab" width="32px"/> </a> &nbsp</p>
 <!--  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="22px"/></a> -->
 <br>
 <div>
