@@ -20,7 +20,7 @@
 - 📫 How to reach me <a href ="sudharson519@gmail.com" target="blank"> MSG Here </a>
 <br/>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhar-07&" alt="sudhar-07" /></p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/sudharsan-r-67bbb11a0/">
   <img align="left" alt="Sudharsan;s Linkedin" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
